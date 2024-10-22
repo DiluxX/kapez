@@ -1,0 +1,15 @@
+D:\gostev\gostev\gostev\obj\Debug\gostev.csproj.AssemblyReference.cache
+D:\gostev\gostev\gostev\obj\Debug\MainWindow.g.cs
+D:\gostev\gostev\gostev\obj\Debug\App.g.cs
+D:\gostev\gostev\gostev\obj\Debug\gostev_MarkupCompile.cache
+D:\gostev\gostev\gostev\obj\Debug\gostev_MarkupCompile.lref
+D:\gostev\gostev\gostev\bin\Debug\gostev.exe.config
+D:\gostev\gostev\gostev\bin\Debug\gostev.exe
+D:\gostev\gostev\gostev\bin\Debug\gostev.pdb
+D:\gostev\gostev\gostev\obj\Debug\MainWindow.baml
+D:\gostev\gostev\gostev\obj\Debug\gostev.g.resources
+D:\gostev\gostev\gostev\obj\Debug\gostev.Properties.Resources.resources
+D:\gostev\gostev\gostev\obj\Debug\gostev.csproj.GenerateResource.cache
+D:\gostev\gostev\gostev\obj\Debug\gostev.csproj.CoreCompileInputs.cache
+D:\gostev\gostev\gostev\obj\Debug\gostev.exe
+D:\gostev\gostev\gostev\obj\Debug\gostev.pdb

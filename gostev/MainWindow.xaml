@@ -1,0 +1,29 @@
+﻿<Window x:Class="gostev.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:gostev"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Menu>
+            <MenuItem Header="File">
+                <MenuItem Header="Input" Click="Input_Click"/>
+                <MenuItem Header="Calc" Click="Calc_Click"/>
+                <MenuItem Header="Draw" Click="Draw_Click"/>
+                <MenuItem Header="Exit" Click="Exit_Click"/>
+            </MenuItem>
+        </Menu>
+
+        <StackPanel>
+            <Label Content="Введите радиус:" Margin="10"/>
+            <TextBox x:Name="RadiusTextBox" Width="200" Margin="10"/>
+
+            <Label Content="Выберите режим:" Margin="10"/>
+            <CheckBox x:Name="SquareCheckBox" Content="Площадь" Margin="10"/>
+            <CheckBox x:Name="LengthCheckBox" Content="Длина" Margin="10"/>
+            <Canvas x:Name="DrawingCanvas" Background="White" Margin="10" Height="200"/>
+        </StackPanel>
+    </Grid>
+</Window>
